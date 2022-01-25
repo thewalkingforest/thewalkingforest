@@ -10,7 +10,7 @@
 
 Redfetch is a program written in rust to fetch information of a Linux or MacOS system.
 
-#### [Game of Ur](https://gitlab.com/TheWalkingForest/redfetch)
+#### [Game of Ur](https://gitlab.com/TheWalkingForest/game-of-ur)
 
 The Royal Game of Ur from ancient Babylonian times
 
