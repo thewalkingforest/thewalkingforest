@@ -1,8 +1,18 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/thewalkingforest/thewalkingforest/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+* [GitLab](https://gitlab.com/TheWalkingForest)
+* [GitHub](https://github.com/thewalkingforest)
+* [This page](https://thewalkingforest.github.io/thewalkingforest)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Projects
+
+#### [Redfetch](https://gitlab.com/TheWalkingForest/redfetch)
+
+Redfetch is a program written in rust to fetch information of a Linux or MacOS system.
+
+#### [Game of Ur](https://gitlab.com/TheWalkingForest/redfetch)
+
+The Royal Game of Ur from ancient Babylonian times
 
 ### Markdown
 
